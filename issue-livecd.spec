@@ -10,6 +10,7 @@ Version:	%{distversion}
 Release:	1
 License:	GPL
 Group:		Base
+Provides:	issue
 Obsoletes:	issue
 Obsoletes:	issue-alpha
 Obsoletes:	issue-fancy
