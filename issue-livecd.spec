@@ -22,10 +22,10 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-PLD Livecd release file with logo.
+PLD LiveCD release file with logo.
 
 %description -l de
-PLD Lovecd Release-Datei mit logo.
+PLD LiveCD Release-Datei mit logo.
 
 %description -l pl
 Wersja PLD LiveCD z logiem.
