@@ -3,8 +3,8 @@
 %define	distrelease	"%{distversion} PLD Live CD"
 
 Summary:	PLD LiveCD release file with logo
-Summary(de):	PLD LiveCD Release-Datei mit logo
-Summary(pl):	Wersja PLD LiveCD z logiem
+Summary(de.UTF-8):   PLD LiveCD Release-Datei mit logo
+Summary(pl.UTF-8):   Wersja PLD LiveCD z logiem
 Name:		issue-livecd
 Version:	%{distversion}
 Release:	1
@@ -24,10 +24,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 PLD LiveCD release file with logo.
 
-%description -l de
+%description -l de.UTF-8
 PLD LiveCD Release-Datei mit logo.
 
-%description -l pl
+%description -l pl.UTF-8
 Wersja PLD LiveCD z logiem.
 
 %prep
