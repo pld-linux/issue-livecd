@@ -3,8 +3,8 @@
 %define	distrelease	"%{distversion} PLD Live CD"
 
 Summary:	PLD LiveCD release file with logo
-Summary(de.UTF-8):   PLD LiveCD Release-Datei mit logo
-Summary(pl.UTF-8):   Wersja PLD LiveCD z logiem
+Summary(de.UTF-8):	PLD LiveCD Release-Datei mit logo
+Summary(pl.UTF-8):	Wersja PLD LiveCD z logiem
 Name:		issue-livecd
 Version:	%{distversion}
 Release:	1
