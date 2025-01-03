@@ -7,7 +7,7 @@ Summary(de.UTF-8):	PLD LiveCD Release-Datei mit logo
 Summary(pl.UTF-8):	Wersja PLD LiveCD z logiem
 Name:		issue-livecd
 Version:	%{distversion}
-Release:	7
+Release:	8
 License:	GPL
 Group:		Base
 Provides:	issue
